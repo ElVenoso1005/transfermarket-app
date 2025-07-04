@@ -47,6 +47,14 @@
       "league": "Premier League",
       "logo": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
       "colors": ["#C8102E", "#00B2A9"]
+    },
+    {
+      "id": 7,
+      "name": "Alianza Lima",
+      "country": "Peru",
+      "league": "Liga 1",
+      "logo": "https://logos-world.net/wp-content/uploads/2020/06/Bayern-Munich-Logo.png",
+      "colors": ["#DC052D", "#FFFFFF"]
     }
   ],
   "players": [
@@ -337,6 +345,30 @@
       },
       "trophies": ["Liga de Campeones", "Premier League"],
       "description": "Defensa central holandés líder en defensa con gran juego aéreo y pase largo."
+    },
+    {
+      "id": 13,
+      "name": "Angel Oyola",
+      "age": 20,
+      "position": "Centrocampista",
+      "nationality": "Peru",
+      "teamId": 7,
+      "marketValue": 130000000,
+      "contractUntil": "2026",
+      "goals": 12,
+      "assists": 8,
+      "matches": 38,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/580195-1635255714.jpg?lm=1",
+      "skills": {
+        "pace": 82,
+        "shooting": 79,
+        "passing": 85,
+        "dribbling": 93,
+        "defending": 52,
+        "physical": 72
+      },
+      "trophies": ["Bundesliga", "Copa del Mundo 2022"],
+      "description": "Centrocampista peruano joven con gran técnica y capacidad de regate."
     }
   ]
 }
