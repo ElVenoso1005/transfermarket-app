@@ -26,7 +26,7 @@ const Header = ({ onSearch, onShowAllPlayers }) => {
                 className="text-white text-2xl font-bold font-football cursor-pointer hover:text-goal-yellow transition-colors"
                 onClick={handleShowAll}
               >
-                ⚽ TransferMarket Pro
+                ⚽ Valor de jugadores en el Mercado
               </h1>
             </div>
           </div>
